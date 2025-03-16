@@ -5,6 +5,7 @@
 import pygame,time,random
 
 pygame.init()
+# pull 
 
 #setting screen size of pygame window to 800 by 600 pixels
 screen=pygame.display.set_mode((800,600))

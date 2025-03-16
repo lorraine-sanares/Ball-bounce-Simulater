@@ -9,7 +9,7 @@ pygame.init()
 
 #setting screen size of pygame window to 800 by 600 pixels
 
-screen=pygame.display.set_mode((800,700))
+screen=pygame.display.set_mode((800,480))
 
 background=pygame.image.load('background-img.jpg')
 #Adding title

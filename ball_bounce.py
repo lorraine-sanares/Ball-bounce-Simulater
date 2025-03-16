@@ -8,7 +8,7 @@ pygame.init()
 # pull 
 
 #setting screen size of pygame window to 800 by 600 pixels
-screen=pygame.display.set_mode((800,600))
+screen=pygame.display.set_mode((800,700))
 background=pygame.image.load('background-img.jpg')
 #Adding title
 pygame.display.set_caption('Ball Bounce Simulation')

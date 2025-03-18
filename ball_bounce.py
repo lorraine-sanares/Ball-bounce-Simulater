@@ -1,11 +1,18 @@
+#first repo
+# another comment
 #This program shows the simulation of 5 balls bouncing under gravitational acceleration.
 #It is also accompanied by elastic collission with walls and bottom of the container.
 import pygame,time,random
 
 pygame.init()
-
+# pull 
+# first commit
+#another commit
+# github desktop
 #setting screen size of pygame window to 800 by 600 pixels
+
 screen=pygame.display.set_mode((800,500))
+
 background=pygame.image.load('background-img.jpg')
 #Adding title
 pygame.display.set_caption('Ball Bounce Simulation')

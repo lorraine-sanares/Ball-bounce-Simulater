@@ -7,6 +7,7 @@ import pygame,time,random
 pygame.init()
 # pull 
 # first commit
+#another commit
 
 #setting screen size of pygame window to 800 by 600 pixels
 

@@ -8,7 +8,7 @@ pygame.init()
 # pull 
 # first commit
 #another commit
-
+# github desktop
 #setting screen size of pygame window to 800 by 600 pixels
 
 screen=pygame.display.set_mode((800,480))
